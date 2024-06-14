@@ -1,5 +1,4 @@
 # Breast Cancer Detection using Logistic Regression
----
 
 This repository contains a Jupyter Notebook for detecting breast cancer using a logistic regression model. The dataset used is from the UC Irvine Machine Learning Repository.
 
